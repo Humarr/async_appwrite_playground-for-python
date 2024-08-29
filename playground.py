@@ -16,7 +16,7 @@ from appwrite.id import ID
 
 
 # Helper method to print green colored output.
-async def p(info):
+def p(info):
     print("\033[32;1m" + str(info) + "\033[0m")
 
 
