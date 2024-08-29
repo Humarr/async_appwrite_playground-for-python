@@ -1,6 +1,12 @@
-# Appwrite's Python Playground 🎮
+# Author: 
 
-Appwrite playground is a simple way to explore the Appwrite API & Appwrite Python SDK. Use the source code of this repository to learn how to use the different Appwrite Python SDK features.
+Umar Saadu
+
+# Email: Saaduumar42@gmail.com
+
+# Async Appwrite's Python Playground 🎮
+
+Async Appwrite playground is a simple way to explore the Appwrite API & Appwrite Python SDK asynchronously. Use the source code of this repository to learn how to use the different Appwrite Python SDK features asynchronously.
 
 **Work in progress**
 
@@ -17,7 +23,7 @@ Appwrite playground is a simple way to explore the Appwrite API & Appwrite Pytho
 4. Copy Project ID, endpoint and API key from Appwrite console into `playground.py`
 5. Run the playground:
     Python:
-        - Install dependencies using pip `pip install -r requirements.txt`
+        - Install dependencies using pip `pip install -r requirements.txt` or via PyPI: `pip install async-appwrite`
         - Execute the command `python playground.py`
     Docker:
         - Execute the command `docker compose up`
